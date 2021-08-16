@@ -1,0 +1,16 @@
+.container {
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  /* height: 50px; */
+}
+
+.urlTitle {
+  color: #1890ff;
+  letter-spacing: 1.25px;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

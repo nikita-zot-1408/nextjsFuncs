@@ -1,0 +1,20 @@
+.container {
+  margin: 5% auto;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 1.25px;
+  width: 65%;
+  text-align: center;
+}
+
+.title {
+  color: #1890ff;
+  font-size: 25px;
+}
+
+.infoText {
+  color: #4a4b4c;
+  font-size: 25px;
+}
